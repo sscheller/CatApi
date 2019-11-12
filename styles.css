@@ -12,6 +12,7 @@ img {
   width: 100%;
   height: auto;
   box-shadow: 2px 0px 30px #000;
+  border-radius: 15px;
 }
 
 
