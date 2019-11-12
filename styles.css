@@ -69,9 +69,7 @@ font-size: 2em;
 justify-content: center;
   padding-top:100px;
   transition: all .5s linear;
-  animation-duration: 3s;
-  animation-delay: 2s;
-  animation-iteration-count: infinite;
+
 }
 
 h1:hover{
